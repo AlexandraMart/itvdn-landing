@@ -1,4 +1,6 @@
 build
-nodu_modules
+node_modules
 npm-debug.log
+tricks.txt
+materials.zip
 .DS_Store
